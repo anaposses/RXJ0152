@@ -1,3 +1,5 @@
+Pasta destinada a criacao e modificação do catálogo de objetos membros do aglomerado estudado.
+
 catalog-blakeslee -> catálogo original de Blakeslee (Blakeslee+06)
 
 catalog_patel -> catálogo original de Patel
