@@ -1,0 +1,5 @@
+Neste arquivo descrevo as pastas e arquivos localizamos na pasta RXJ0152/. Para cada pasta, haverá um arquivo de texto similar descrevendo os arquivos presentes em seu respectivo diretório
+
+00-Catalogos/ - Encontra-se os catálogos originais utilizados e os catálogos gerados a partir da manipulação daqueles. 
+
+
