@@ -1,0 +1,7 @@
+catalog-blakeslee -> catálogo original de Blakeslee (Blakeslee+06)
+
+catalog_patel -> catálogo original de Patel
+
+catalog_tanaka.txt -> catálogo original de Tanaka
+
+catalog_demarco -> catálogo original Demarco
