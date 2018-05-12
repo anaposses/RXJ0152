@@ -7,3 +7,4 @@ catalog_patel -> catálogo original de Patel
 catalog_tanaka.txt -> catálogo original de Tanaka
 
 catalog_demarco -> catálogo original Demarco
+info_catalogs.tex -> Informaçoes retiradas dos artigos sobre os dados de cada catalogo
