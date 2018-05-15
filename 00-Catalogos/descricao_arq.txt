@@ -12,3 +12,5 @@ info_catalogs.tex -> Informaçoes retiradas dos artigos sobre os dados de cada c
 members_RXJ0152.txt -> catalogo final contendo a versao mais recente modificada
 
 backup_01_members_RXJ0152.txt -> primeiro catalogo unico, contendo apenas as informacoes dos catalogos originais
+
+backup_02_members_RXJ0152.txt -> adicao magnitudes U
