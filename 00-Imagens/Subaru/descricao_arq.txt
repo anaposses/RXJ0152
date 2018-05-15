@@ -13,3 +13,5 @@ default.conv arquivo utilizado pelo SExtractor para realizar ***
 default.nnw - arquivo contendo informações sobre as redes neurais do SExtractor
 
 gauss_3.0_5x5.conv - arquivo utilizado ** PSF??
+
+02-script_sextractor.sh -  arquivo utilizado para executar a execução do SExtractor das imagens corrigidas
