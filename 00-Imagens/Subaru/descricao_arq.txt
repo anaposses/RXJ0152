@@ -1,0 +1,15 @@
+Nesta etapas foram executados a extração e fotometria de fontes de imagens do Subaru após correção de um desvio detectado de ascensão reta e declinação.
+
+Imagens corrigidas:
+V_c.fits
+R_c.fits
+i_c.fits
+z_final.fits -> imagem sem correções, imagem base
+
+default_*.fits tabela contendo parâmetros de entrada para o SExtractor
+
+default.conv arquivo utilizado pelo SExtractor para realizar ***
+
+default.nnw - arquivo contendo informações sobre as redes neurais do SExtractor
+
+gauss_3.0_5x5.conv - arquivo utilizado ** PSF??
