@@ -15,3 +15,12 @@ default.nnw - arquivo contendo informações sobre as redes neurais do SExtracto
 gauss_3.0_5x5.conv - arquivo utilizado ** PSF??
 
 02-script_sextractor.sh -  arquivo utilizado para executar a execução do SExtractor das imagens corrigidas
+
+Resultados sextractor:
+
+seg_*.fits mapa de segmentacao
+aper_*.fits imagem contendo os objetos e os segmentos utilizados para fotometria
+obj_*.fits imagem contendo pixeis brancos demarcando os pixeis classificados como pertencentes a uma galáxia e respetiva identificação numérica utiliada pelo SExtractor no catálogo. 
+
+cat_sub*.cat - catalogo gerado pelo sextractor para respectiva banda
+
