@@ -1,6 +1,6 @@
 Para executar tal procedimento cabido dentro deste arquivo;
 
-1
+1) Consertando imagens
 
 
 2) Extração e fotometria pelo sextractor: 
@@ -8,3 +8,10 @@ Para executar tal procedimento cabido dentro deste arquivo;
 Programa: bash
 
 $ ./02-script_sextractor.sh
+
+3) Comparando magnitudes
+
+4) Copiando para pasta de Catalogos:
+
+mkdir ../../00-Catalogos/Subaru
+cp cat* ../../00-Catalogos/Subaru/
