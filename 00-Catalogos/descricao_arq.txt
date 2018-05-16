@@ -1,5 +1,12 @@
 Pasta destinada a criacao e modificação do catálogo de objetos membros do aglomerado estudado.
 
+modificando_cat.ipynb -  Arquivo python(jupyter) utilizado para:
+                            -Identificar os objetos de cada catálogo que pertencem ao aglomerado, sem duplicações
+                            - Juntar para mesmo objeto os parâmetros de cada catálogo
+                            - Adicionar magnitude U e NUV.
+                            - Adicionar as magnitude V R i z do SUBARUUUU
+                        
+
 catalog-blakeslee -> catálogo original de Blakeslee (Blakeslee+06)
 
 catalog_patel -> catálogo original de Patel
