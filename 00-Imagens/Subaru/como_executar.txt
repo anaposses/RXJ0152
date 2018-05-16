@@ -1,0 +1,10 @@
+Para executar tal procedimento cabido dentro deste arquivo;
+
+1
+
+
+2) Extração e fotometria pelo sextractor: 
+
+Programa: bash
+
+$ ./02-script_sextractor.sh
