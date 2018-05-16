@@ -1,0 +1,1 @@
+Nesta pasta encontram-se os catálogos das magnitudes V,r,i e z obtidos pela rodagem do programa SExtrator na pasta ../../00-Imagens/Subaru
