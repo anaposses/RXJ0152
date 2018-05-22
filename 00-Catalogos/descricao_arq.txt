@@ -21,3 +21,5 @@ members_RXJ0152.txt -> catalogo final contendo a versao mais recente modificada
 backup_01_members_RXJ0152.txt -> primeiro catalogo unico, contendo apenas as informacoes dos catalogos originais
 
 backup_02_members_RXJ0152.txt -> adicao magnitudes U
+backup_03_members_RXJ0152.txt -> adicao mag NUV
+backup_04_members_RXJ0152.txt -> adicao mag V R i z, SUBARU
